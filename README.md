@@ -1,2 +1,1 @@
-# proj42
-sus
+# PRO-V2-C42-ModeloProjeto
